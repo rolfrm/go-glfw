@@ -1,1 +1,5 @@
-bindings for glfw
+Bindings for GLFW
+
+Dependencies:
+libglfw
+(For use go-OpenGL or some other way of invoking opengl calls is needed)
